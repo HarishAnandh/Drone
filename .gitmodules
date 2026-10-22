@@ -1,6 +1,0 @@
-[submodule "netanim"]
-	path = netanim
-	url = https://gitlab.com/nsnam/netanim.git
-[submodule "ns-3"]
-	path = ns-3
-	url = https://gitlab.com/nsnam/ns-3-dev.git
